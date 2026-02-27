@@ -59,7 +59,7 @@ Features include task creation, update, deletion, dynamic filtering by search, c
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/kanban-board.git
+git clone https://github.com/MuhannedHelall/todo-kanban.git
 cd kanban-board
 ```
 
