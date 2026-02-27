@@ -60,7 +60,7 @@ Features include task creation, update, deletion, dynamic filtering by search, c
 
 ```bash
 git clone https://github.com/MuhannedHelall/todo-kanban.git
-cd kanban-board
+cd todo-kanban
 ```
 
 ### 2. Install dependencies
