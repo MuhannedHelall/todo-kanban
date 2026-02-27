@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "API Integeration",
+    "description": "Connect Frontend to REST API endpoints",
+    "column": "backlog",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Unit tests",
+    "description": "write tests for utility functions and hooks",
+    "column": "backlog",
+    "priority": "low"
+  },
+  {
+    "id": 3,
+    "title": "Performance audit",
+    "description": "Lighthouse scores and bundle analysis",
+    "column": "review",
+    "priority": "low"
+  },
+  {
+    "id": 4,
+    "title": "Authentication flow",
+    "description": "Implement login, signup, and password reset screens",
+    "column": "done",
+    "priority": "high"
+  },
+  {
+    "id": 5,
+    "title": "File upload component",
+    "description": "Drag and drop file upload with preview",
+    "column": "backlog",
+    "priority": "medium"
+  },
+  {
+    "id": 6,
+    "title": "Dark mode review",
+    "description": "add theme toggle and css variable switching",
+    "column": "in_progress",
+    "priority": "medium"
+  },
+  {
+    "id": 7,
+    "title": "Dashboard Layout",
+    "description": "Build responsive side bar and main content area",
+    "column": "review",
+    "priority": "medium"
+  },
+  {
+    "id": 8,
+    "title": "Design system tokens",
+    "description": "Set up color palette, typography, and spacing scales",
+    "column": "in_progress",
+    "priority": "high"
+  },
+  {
+    "id": 9,
+    "title": "Notification system",
+    "description": "Toast notification and in-app alert",
+    "column": "backlog",
+    "priority": "medium"
+  }
+]
