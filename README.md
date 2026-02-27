@@ -61,11 +61,25 @@ Features include task creation, update, deletion, dynamic filtering by search, c
 ```bash
 git clone https://github.com/yourusername/kanban-board.git
 cd kanban-board
+```
+
+### 2. Install dependencies
+
+```bash
 npm install
+```
+
+### 3. Start dev server
+
+```bash
 npm run dev
+```
+
+### 4. Open in your browser
 
 Open http://localhost:3000 in your browser.
-```
+
+## Scripts
 
 | Command         | Description                  |
 | --------------- | ---------------------------- |
@@ -74,9 +88,8 @@ Open http://localhost:3000 in your browser.
 | `npm run start` | Start production server      |
 | `npm run lint`  | Run linter                   |
 
-
 ## Notes
 
-1) This project uses a JSON file (tasks.json) as a mock backend. No database is required.
-2) React Query handles caching, invalidation, and synchronization of tasks.
-3) Zustand manages UI state like search filters.
+1. This project uses a JSON file (tasks.json) as a mock backend. No database is required.
+2. React Query handles caching, invalidation, and synchronization of tasks.
+3. Zustand manages UI state like search filters.
